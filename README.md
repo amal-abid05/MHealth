@@ -15,10 +15,15 @@ Hadoop, MapReduce, MultipleInput, MongoDB
 The MHEALTH (Mobile HEALTH) dataset comprises body motion and vital signs recordings for ten volunteers of diverse profile while performing several physical activities. Sensors placed on the subject's chest, right wrist and left ankle are used to measure the motion experienced by diverse body parts, namely, acceleration, rate of turn and magnetic field orientation. The sensor positioned on the chest also provides 2-lead ECG measurements, which can be potentially used for basic heart monitoring, checking for various arrhythmias or looking at the effects of exercise on the ECG. 
 
 ---------------------------------------------------------------------------------------------------------------------- 
+
 ### DATASET SUMMARY: 
+
 Activities: 12 
+
 Sensor devices: 3 
+
 Subjects: 10 
+
 ---------------------------------------------------------------------------------------------------------------------- 
 
 
@@ -58,7 +63,7 @@ L12: Jump front & back (20x)
 NOTE: In brackets are the number of repetitions (Nx) or the duration of the exercises (min). 
 
 
-## Attribute Information:
+### Attribute Information:
 
 The data collected for each subject is stored in a different log file: 'mHealth_subject.log'. Each file contains the samples (by rows) recorded for all sensors (by columns). The labels used to identify the activities are similar to the abovementioned (e.g., the label for walking is '4'). 
 
