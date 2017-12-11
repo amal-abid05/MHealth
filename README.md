@@ -6,7 +6,7 @@ http://archive.ics.uci.edu/ml/datasets/mhealth+dataset
 
 Electrocardiogram signal analysis according to activity.
 
-Hadoop, MapReduce, Multiple Input, MongoDB
+Hadoop, MapReduce, MultipleInput, MongoDB
 
 # DataSet
 
